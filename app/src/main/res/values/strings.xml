@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book search</string>
+    <string name="search">Insert a search term </string>
+    <string name="button_name">Search</string>
+    <!-- Title text for the empty view -->
+    <string name="empty_view_title_text">You can find all books here.</string>
+    <!-- Subtitle text for the empty view that informs the user how to populate the list -->
+    <string name="empty_view_subtitle_text">search  by typing in search box on top and by pressing the search button</string>
+</resources>
